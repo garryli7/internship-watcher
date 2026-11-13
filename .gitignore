@@ -1,0 +1,6 @@
+preview.html
+__pycache__/
+.DS_Store
+# personal info stays local (the GitHub repo may be public)
+applications.md
+resumes/
