@@ -4656,8 +4656,8 @@
     "url": "https://go.vansh.nyc/1cx"
   },
   "https://go.vansh.nyc/1cb": {
-    "title": "Data Science Co-op",
-    "url": "https://go.vansh.nyc/1cB"
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/1CB"
   },
   "https://go.vansh.nyc/1cf": {
     "title": "Data Science Intern, Enterprise Reporting & Analytics",
@@ -6186,5 +6186,25 @@
   "https://go.vansh.nyc/1eo": {
     "title": "Research Engineer Intern",
     "url": "https://go.vansh.nyc/1Eo"
+  },
+  "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us": {
+    "title": "Integrated Analytics Intern",
+    "url": "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us"
+  },
+  "https://go.vansh.nyc/1ev": {
+    "title": "Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Ev"
+  },
+  "https://go.vansh.nyc/1ex": {
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/1Ex"
+  },
+  "https://go.vansh.nyc/1ee": {
+    "title": "AI Engineer/Consultant Intern",
+    "url": "https://go.vansh.nyc/1EE"
+  },
+  "https://go.vansh.nyc/1eu": {
+    "title": "Software Engineering Intern, AI Building",
+    "url": "https://go.vansh.nyc/1EU"
   }
 }
